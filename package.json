@@ -1,14 +1,14 @@
 {
   "name": "START-fgmenu",
   "version": "1.0.0",
-  "description": "",
+  "description": "Standard menu",
   "main": "index.htm",
   "repository": {
     "type": "git",
     "url": "https://github.com/starthere123/StART-fgmenu"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "echo \"Error: no build specified\" && exit 0"
   },
   "keywords": [],
