@@ -1,0 +1,24 @@
+#s-content.s-font-body-open-sans .s-font-body { font-family: "open sans", helvetica, sans-serif;}
+#s-content.s-font-body-open-sans .s-font-body:lang(ja) {font-family: "open sans", helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif}
+#s-content.s-font-body-open-sans .s-font-body:lang(zh-cn),#s-content.s-font-body-open-sans .s-font-body:lang(sxl),
+#s-content.s-font-body-open-sans .s-font-body:lang(zh) {font-family: "open sans", helvetica, 'PingFang SC', "Microsoft YaHei", "微软雅黑", STXihei, "华文细黑", sans-serif}
+
+#s-content.s-font-body-open-sans .s-font-body:lang(zh-tw) {font-family: "open sans", helvetica, 'Lisong Pro', 'PMingLiU', 'PingFang TC', 'Microsoft JhengHei', "微軟正黑體", STXihei, sans-serif;}
+
+#s-content.s-font-title-open-sans .s-font-title {font-family: "open sans", helvetica, sans-serif;}
+
+#s-content.s-font-title-open-sans .s-font-title:lang(ja) {font-family: "open sans", helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif}
+
+#s-content.s-font-title-open-sans .s-font-title:lang(zh-cn),#s-content.s-font-title-open-sans .s-font-title:lang(sxl),
+#s-content.s-font-title-open-sans .s-font-title:lang(zh) {font-family: "open sans", helvetica, 'PingFang SC', "Microsoft YaHei", "微软雅黑", STXihei, "华文细黑", sans-serif}
+
+#s-content.s-font-title-open-sans .s-font-title:lang(zh-tw) {font-family: "open sans", helvetica, 'Lisong Pro', 'PMingLiU', 'PingFang TC', 'Microsoft JhengHei', "微軟正黑體", STXihei, sans-serif;}
+
+#s-content.s-font-heading-open-sans .s-font-heading {font-family: "open sans", helvetica, sans-serif;}
+
+#s-content.s-font-heading-open-sans .s-font-heading:lang(ja) {font-family: "open sans", helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif
+}
+
+#s-content.s-font-heading-open-sans .s-font-heading:lang(zh-cn),#s-content.s-font-heading-open-sans .s-font-heading:lang(sxl),
+#s-content.s-font-heading-open-sans .s-font-heading:lang(zh) {font-family: "open sans", helvetica, 'PingFang SC', "Microsoft YaHei", "微软雅黑", STXihei, "华文细黑", sans-serif}
+#s-content.s-font-heading-open-sans .s-font-heading:lang(zh-tw) {font-family: "open sans", helvetica, 'Lisong Pro', 'PMingLiU', 'PingFang TC', 'Microsoft JhengHei', "微軟正黑體", STXihei, sans-serif;}
