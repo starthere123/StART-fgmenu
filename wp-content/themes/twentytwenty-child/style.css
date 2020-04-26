@@ -1,4 +1,8 @@
+body {font-family: "Open Sans",sans-serif !important;}
+h1.entry-title {font-size: 29px !important;color: darkgray !important;font-family: Roboto !important;}
+h2 {font-family: "Open Sans",sans-serif;}
 .site-content-contain {background-color: #d7d7d7;position: relative;}
 .widget {background: #b9ebfa;padding: 25px;}
 p {color: teal;}
-p {font-family: Georgia;font-size: 18px;}
+p {font-family: "Open Sans";font-size: 18px;}
+#site-footer {visibility: hidden;}
